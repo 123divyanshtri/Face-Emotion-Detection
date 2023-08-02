@@ -1,0 +1,1 @@
+ frame = cv2.resize(frame, (1280, 720))
